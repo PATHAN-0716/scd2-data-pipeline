@@ -1,0 +1,9 @@
+{
+  "duplicate_dimension_versions": 0,
+  "invalid_intervals": 0,
+  "customers_without_one_current_row": 0,
+  "current_flag_mismatch": 0,
+  "source_event_count": 100000,
+  "dimension_row_count": 79898,
+  "all_checks_passed": true
+}

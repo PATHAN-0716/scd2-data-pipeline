@@ -1,0 +1,8 @@
+﻿customer_id,event_id,effective_at,name,email,city
+C001,E001,2025-01-01T00:00:00Z,Asha Rao,asha@example.com,Hyderabad
+C001,E002,2025-02-01T00:00:00Z,Asha Rao,asha@example.com,Chennai
+C001,E003,2025-01-15T00:00:00Z,Asha Rao,asha@example.com,Bengaluru
+C002,E004,2025-01-10T00:00:00Z,Rahul Das,rahul@example.com,Kakinada
+C002,E004,2025-01-10T00:00:00Z,Rahul Das,rahul@example.com,Kakinada
+C003,E005,2025-01-20T00:00:00Z,Meera Sen,invalid-email,Hyderabad
+C004,E006,2025-01-25T00:00:00Z,,dev@example.com,Chennai
