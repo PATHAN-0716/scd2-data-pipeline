@@ -1,1 +1,12 @@
-﻿# Python standard library only; no third-party dependencies.
+﻿# This project uses Python standard-library modules only.
+# No third-party packages are required.
+
+# Core modules used:
+# sqlite3  - Database storage
+# csv      - CSV file processing
+# hashlib  - Record hash generation
+# json     - Reconciliation report generation
+# unittest - Automated testing
+# datetime - Timestamp parsing and handling
+
+# Python 3.10 or later recommended.
